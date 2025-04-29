@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Procesamiento_de_transacciones_bancarias/1.0.0": {
+        "runtime": {
+          "Procesamiento_de_transacciones_bancarias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Procesamiento_de_transacciones_bancarias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
